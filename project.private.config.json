@@ -51,6 +51,13 @@
           "pathName": "pages/updateRecordSuccess/index",
           "query": "",
           "scene": null
+        },
+        {
+          "name": "777",
+          "pathName": "pages/selectRecord/index",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
         }
       ]
     }
